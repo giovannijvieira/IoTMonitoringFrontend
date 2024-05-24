@@ -54,7 +54,7 @@ Este projeto é o frontend da aplicação de monitoramento de dispositivos IoT. 
 - **src/**
   - **components/**: Componentes reutilizáveis da aplicação.
   - **pages/**: Páginas principais da aplicação (Login, Dashboard, Device Selection).
-  - **App.js**: Componente principal da aplicação.
+  - **App.tsx**: Componente principal da aplicação.
   - **index.js**: Ponto de entrada da aplicação.
 
 ## Decisões de Design e Implementação
