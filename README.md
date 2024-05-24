@@ -25,8 +25,8 @@ Este projeto é o frontend da aplicação de monitoramento de dispositivos IoT. 
 1. Clone o repositório:
 
    \`\`\`bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/giovannijvieira/IoTMonitoringFrontend
+   cd IoTMonitoringFrontend
    \`\`\`
 
 2. Instale as dependências:
