@@ -27,7 +27,7 @@ Este projeto é o frontend da aplicação de monitoramento de dispositivos IoT. 
    \`\`\`bash
    git clone https://github.com/giovannijvieira/IoTMonitoringFrontend
    \`\`\`
-   \`\`\`bash
+   \`\``
     cd IoTMonitoringFrontend
    \`\`\`
 
