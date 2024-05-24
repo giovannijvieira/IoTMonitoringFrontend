@@ -91,7 +91,7 @@ Implementei o roteamento com React Router para navegação entre diferentes pág
 
 ## Configuração de Variáveis de Ambiente
 
-Cria um arquivo `.env` na raiz do projeto com as variáveis de ambiente que será enviadas por e-mail.
+Cria um arquivo `.env` na raiz do projeto com as variáveis de ambiente que serão enviadas por e-mail.
 
 
 Essas variáveis serão enviadas por email para garantir a segurança e a privacidade das informações sensíveis.
